@@ -1,0 +1,39 @@
+{		"prefix": "multi", 
+
+	"defaultSessionName": "bot", 
+
+	"zeksKey": "ccc7a1a4444b2ce1", 
+
+	"xkey": "vN1EaWx0LGNRvgtsCR5WIgiqsd5", 
+
+        "lolkey": "020b1a9c43b2f6799608771a", 
+
+        "uhykey": "8Gz8YQ28yK69LKE",
+
+	"autoRead": false, 
+
+	"maxLimit": 15, 
+
+	"ownerList": ["256777185053@s.whatsapp.net","256702923100@s.whatsapp.net"],
+
+	"apiUrl": "https://api.zeks.me",
+
+        "apiLol": "https://api.lolhuman.xyz",
+
+        "apiUhy": "https://dapuhy-api.herokuapp.com",
+
+        "imgUrl": "https://i.ibb.co/c80cZ3Y/pp-biodata.jpg",
+
+        "igUrl": "https://instagram.com/kizzajamie?igshid=eb090bvf6m2b",
+
+        "githubUrl": "https://github.com/kizzajamie",
+
+	"botname": "JAY-BOT", 
+
+        "ownername": "꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩",
+
+	"pack": "J-BOT", 
+
+	"author": "By ꧁༒🄹🄰🄼🄸🄴🅺༒꧂⁩"
+
+}
